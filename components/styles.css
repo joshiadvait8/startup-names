@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Galada&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #00cccd;
+  font-family: "Roboto", sans-serif;
+}
+
+.startupNameContainer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
